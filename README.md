@@ -1,20 +1,20 @@
 # Wildlife-trading-poaching
 
-DevSpark Hackathon winning project
+DevSpark Hackathon winning project<br>
 This repository contains code and data for wildlife conservation projects. The code is written in Python and the data is stored in CSV files.
 
 # Team
 Shivendra Trivedi<br>
-Vedant Agrawal
+Vedant Agrawal<br>
 Naman Gupta
 
 # Code
 The code in this repository can be used to:
 
-Collect data on wildlife illegal trading
-Analyze data to identify routs of trading
-Develop models to predict future trends in wildlife poaching
-Implement conservation strategies to protect wildlife populations
+Collect data on wildlife illegal trading<br>
+Analyze data to identify routs of trading<br>
+Develop models to predict future trends in wildlife poaching<br>
+Implement conservation strategies to protect wildlife populations<br>
 
 # Steps to run project in local machine
 1. Clone the repository
