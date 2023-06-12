@@ -1,13 +1,12 @@
 # Wildlife-trading-poaching
 
 DevSpark Hackathon winning project
+This repository contains code and data for wildlife conservation projects. The code is written in Python and the data is stored in CSV files.
 
 # Team
 Shivendra Trivedi
 Vedant Agrawal
 Naman Gupta
-
-This repository contains code and data for wildlife conservation projects. The code is written in Python and the data is stored in CSV files.
 
 # Code
 The code in this repository can be used to:
